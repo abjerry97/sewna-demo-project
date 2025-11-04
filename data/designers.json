@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Mehta",
+    "specialty": "Product & Interaction Design",
+    "location": "Bangalore, India",
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "image": "/images/demoImages/designer.jpeg",
+    "portfolio": [
+      "/images/demoImages/photo-1603791440384-56cd371ee9a7.jpeg",
+      "/images/demoImages/photo-1593642532973-d31b6557fa68.jpeg"
+    ],
+    "price": "$$$",
+    "turnaround": "2-3 weeks",
+    "completedProjects": 210,
+    "responseTime": "3 hours",
+    "bio": "Priya is a seasoned UI/UX designer with over 8 years of experience crafting user-centered products. Her expertise lies in simplifying complex workflows and designing interfaces that delight users. She has worked with SaaS startups, fintech platforms, and e-commerce brands globally.",
+    "skills": [
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems",
+      "Usability Testing"
+    ],
+    "experience": "8+ years",
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Anjali Patel",
+        "rating": 5,
+        "date": "2 weeks ago",
+        "comment": "Priya redesigned our e-commerce checkout flow, and our conversion rate improved by 30%. Excellent attention to detail!",
+        "image": "/images/demoImages/photo-1438761681033-6461ffad8d80.jpeg"
+      },
+      {
+        "id": 2,
+        "author": "Emily Johnson",
+        "rating": 4,
+        "date": "1 month ago",
+        "comment": "She’s a fantastic communicator and always backed her design choices with data. Loved collaborating with her.",
+        "image": "/images/demoImages/photo-1500648767791-00dcc994a43e.jpeg"
+      },
+      {
+        "id": 3,
+        "author": "Sofia García",
+        "rating": 5,
+        "date": "3 months ago",
+        "comment": "Priya’s design process is well-structured and thoughtful. The final product looked world-class.",
+        "image": "/images/demoImages/photo-1529626455594-4ff0802cfb7e.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kenji Tanaka",
+    "specialty": "Minimalist UI & Brand Systems",
+    "location": "Tokyo, Japan",
+    "rating": 4.8,
+    "reviewsCount": 97,
+    "image": "/images/demoImages/photo-1552058544-f2b08422138a.jpeg",
+    "portfolio": ["/images/demoImages/designer.jpeg"],
+    "price": "$$",
+    "turnaround": "1-2 weeks",
+    "completedProjects": 185,
+    "responseTime": "5 hours",
+    "bio": "Kenji combines Japanese minimalism with modern interaction patterns to build seamless user experiences. He’s known for his clean aesthetics, structured grids, and intuitive mobile app interfaces.",
+    "skills": ["Visual Design", "Design Systems", "UI Animation", "Figma", "Brand Identity"],
+    "experience": "6+ years",
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Hiroshi Sato",
+        "rating": 5,
+        "date": "2 weeks ago",
+        "comment": "Kenji’s design system transformed our product — elegant, scalable, and pixel-perfect.",
+        "image": "/images/demoImages/photo-1535713875002-d1d0cf377fde.jpeg"
+      },
+      {
+        "id": 2,
+        "author": "Léa Dupont",
+        "rating": 4,
+        "date": "1 month ago",
+        "comment": "A true professional. His layouts are balanced and visually stunning.",
+        "image": "/images/demoImages/photo-1529626455594-4ff0802cfb7e.jpeg"
+      },
+      {
+        "id": 3,
+        "author": "Carlos Mendes",
+        "rating": 5,
+        "date": "2 months ago",
+        "comment": "Kenji’s style embodies clarity and function. His work made our brand instantly more premium.",
+        "image": "/images/demoImages/photo-1544005313-94ddf0286df2.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amara Bello",
+    "specialty": "Inclusive & Accessible Design",
+    "location": "Lagos, Nigeria",
+    "rating": 5.0,
+    "reviewsCount": 143,
+    "image": "/images/demoImages/photo-1544005313-94ddf0286df2.jpeg",
+    "portfolio": ["/images/demoImages/photo-1603791440384-56cd371ee9a7.jpeg"],
+    "price": "$$$",
+    "turnaround": "3-4 weeks",
+    "completedProjects": 198,
+    "responseTime": "4 hours",
+    "bio": "Amara is passionate about creating digital experiences that are accessible to everyone. She’s led UX research and design for fintech, education, and government platforms, ensuring inclusivity and usability across devices.",
+    "skills": [
+      "Accessibility Design (WCAG)",
+      "UX Research",
+      "Prototyping",
+      "Design Thinking",
+      "UI Design"
+    ],
+    "experience": "7+ years",
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Chinedu Okeke",
+        "rating": 5,
+        "date": "1 week ago",
+        "comment": "Amara helped us redesign our education app with accessibility in mind. It’s now more intuitive for everyone.",
+        "image": "/images/demoImages/photo-1517841905240-472988babdf9.jpeg"
+      },
+      {
+        "id": 2,
+        "author": "Jessica Lee",
+        "rating": 4,
+        "date": "1 month ago",
+        "comment": "Loved how she guided user research. The user testing insights were invaluable.",
+        "image": "/images/demoImages/photo-1506794778202-cad84cf45f1d.jpeg"
+      },
+      {
+        "id": 3,
+        "author": "Ahmed Al-Farsi",
+        "rating": 5,
+        "date": "2 months ago",
+        "comment": "Her empathy-driven design approach made a huge difference for our product.",
+        "image": "/images/demoImages/photo-1529626455594-4ff0802cfb7e.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Luca Rossi",
+    "specialty": "Luxury UI & Creative Direction",
+    "location": "Milan, Italy",
+    "rating": 4.7,
+    "reviewsCount": 101,
+    "image": "/images/demoImages/photo-1507003211169-0a1dd7228f2d.jpeg",
+    "portfolio": [
+      "/images/demoImages/photo-1593642532973-d31b6557fa68.jpeg",
+      "/images/demoImages/photo-1603791440384-56cd371ee9a7.jpeg"
+    ],
+    "price": "$$$$",
+    "turnaround": "4-6 weeks",
+    "completedProjects": 220,
+    "responseTime": "6 hours",
+    "bio": "Luca blends Italian luxury aesthetics with modern UI design. He’s known for designing digital experiences that look as premium as they feel. His clients include fashion houses, jewelry brands, and boutique e-commerce stores.",
+    "skills": [
+      "Art Direction",
+      "UX Strategy",
+      "Visual Design",
+      "Brand Identity",
+      "Interaction Design"
+    ],
+    "experience": "9+ years",
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Giulia Conti",
+        "rating": 5,
+        "date": "3 weeks ago",
+        "comment": "Luca’s landing page design elevated our brand image completely. Clean, bold, and modern.",
+        "image": "/images/demoImages/photo-1500648767791-00dcc994a43e.jpeg"
+      },
+      {
+        "id": 2,
+        "author": "Ava Brown",
+        "rating": 4,
+        "date": "1 month ago",
+        "comment": "Very professional — his work feels like art. The animations were a nice touch!",
+        "image": "/images/demoImages/photo-1544005313-94ddf0286df2.jpeg"
+      },
+      {
+        "id": 3,
+        "author": "Hannah Müller",
+        "rating": 5,
+        "date": "3 months ago",
+        "comment": "We collaborated on a fashion app. His visual storytelling is second to none.",
+        "image": "/images/demoImages/photo-1517841905240-472988babdf9.jpeg"
+      }
+    ]
+  }
+]
