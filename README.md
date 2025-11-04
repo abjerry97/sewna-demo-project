@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🪡 SEWNA — Connect with Independent Designers
 
-## Getting Started
+**SEWNA** is a platform that helps people connect with independent designers to create custom designs.  
+This project reimagines SEWNA’s **Welcome Page** and introduces two interactive user flows:  
+1. **Designer Registration & Portfolio Upload**  
+2. **Designer Discovery & Selection**
 
-First, run the development server:
+---
 
+## 🌍 Live Demo  
+🔗 [Live Preview](#)  
+💻 [GitHub Repository](https://github.com/abjerry97/senwa-demo-project)
+
+---
+
+## ✨ Features  
+
+### 🧵 1. I am a Designer  
+When a designer clicks **“I am a Designer”**, they are presented with a **registration form** to:  
+- Create a designer profile  
+- Upload portfolio projects (images + descriptions)  
+- Specify their specialities and style preferences  
+
+This feature helps designers build credibility and visibility on SEWNA.  
+
+---
+
+### 👗 2. I need a Designer  
+When a client clicks **“I need a Designer”**, they are taken to a **Designer Discovery Page**, where they can:  
+- Browse available designers  
+- Filter or sort by **speciality**  
+- Search designers by name or tag  
+- Click on profiles to view **designer portfolios** and **client reviews**  
+
+This creates a seamless and inspiring experience for users seeking custom design services.  
+
+---
+
+## 🧠 Product Thinking  
+
+I chose these two flows because they represent SEWNA’s **core connection point** — where designers and clients meet.  
+- For designers: the goal is to **encourage self-expression** and make their work shine.  
+- For clients: the goal is to **inspire trust and excitement** through a smooth discovery process.  
+
+I wanted users to feel **warmth, confidence, and creative energy** — like working with a trusted designer who understands their vision.  
+
+---
+
+
+## ⚙️ Tech Stack  
+
+- **Next.js (App Router)** — Modern React framework  
+- **Tailwind CSS** — Utility-first CSS for rapid design  
+- **TypeScript** — Strongly typed, scalable code  
+- **Vercel** — Fast and global hosting  
+
+---
+
+## 🚀 Getting Started  
+
+### 1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/abjerrt/sewnademo-project.git
+cd sewna-demo-project
