@@ -43,9 +43,9 @@ export default function DesignerSignup() {
   }
   const addPortfolioImage = () => {
     const demoImages = [
-      '/images/demoImages/designer.jpeg',
-      '/images/demoImages/designer1.jpeg',
-      '/images/demoImages/designer2.jpeg',
+      '/images/demoImages/photo-1490481651871-ab68de25d43d.jpeg',
+      '/images/demoImages/photo-1515886657613-9f3515b0c78f.jpeg',
+      '/images/demoImages/photo-1583391733956-3750e0ff4e8b.jpeg',
     ]
 
     if (portfolioImages.length < 6) {
