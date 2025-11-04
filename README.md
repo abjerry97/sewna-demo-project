@@ -60,5 +60,5 @@ I wanted users to feel **warmth, confidence, and creative energy** — like work
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/abjerrt/sewnademo-project.git
+git clone https://github.com/abjerry/sewna-demo-project.git
 cd sewna-demo-project
