@@ -19,12 +19,12 @@ export default function DesignerSignup() {
   const [portfolioImages, setPortfolioImages] = useState<string[]>([])
   const [profileImage, setProfileImage] = useState<string>('')
   const specialties = [
-    'Product & Interaction Design',
-    'Minimalist UI & Brand Systems',
-    'Inclusive & Accessible Design',
-    'Luxury UI & Creative Direction',
-    'UX Writing & Content Design',
-    'Design Systems & Frontend Handoff',
+    'Traditional & Bridal',
+    'Contemporary Fusion',
+    'Ethnic & Festive',
+    'Formal & Casual',
+    'Bridal Couture',
+    'Contemporary Street',
   ]
   const priceRanges = ['$', '$$', '$$$', '$$$$']
   const turnaroundOptions = ['1 week', '1-2 weeks', '2-3 weeks', '3-4 weeks', '4-6 weeks']

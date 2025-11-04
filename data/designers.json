@@ -2,26 +2,27 @@
   {
     "id": 1,
     "name": "Priya Mehta",
-    "specialty": "Product & Interaction Design",
+    "specialty": "Traditional & Bridal",
     "location": "Bangalore, India",
     "rating": 4.9,
     "reviewsCount": 128,
-    "image": "/images/demoImages/designer.jpeg",
+    "image": "/images/demoImages/photo-1494790108377-be9c29b29330.jpeg",
     "portfolio": [
-      "/images/demoImages/photo-1603791440384-56cd371ee9a7.jpeg",
-      "/images/demoImages/photo-1593642532973-d31b6557fa68.jpeg"
+      "/images/demoImages/photo-1583391733956-3750e0ff4e8b.jpeg",
+      "/images/demoImages/photo-1610030469983-98e550d6193c.jpeg",
+      "/images/demoImages/photo-1617019114583-affb34d1b3cd.jpeg"
     ],
     "price": "$$$",
     "turnaround": "2-3 weeks",
     "completedProjects": 210,
     "responseTime": "3 hours",
-    "bio": "Priya is a seasoned UI/UX designer with over 8 years of experience crafting user-centered products. Her expertise lies in simplifying complex workflows and designing interfaces that delight users. She has worked with SaaS startups, fintech platforms, and e-commerce brands globally.",
+    "bio": "Priya is a celebrated bridal and couture designer with over 8 years of experience creating bespoke outfits for weddings and cultural events. Known for her intricate embroidery and attention to detail, she has dressed brides across India and beyond.",
     "skills": [
-      "User Research",
-      "Wireframing",
-      "Prototyping",
-      "Design Systems",
-      "Usability Testing"
+      "Hand Embroidery",
+      "Bridal Couture",
+      "Color Styling",
+      "Fabric Selection",
+      "Custom Fittings"
     ],
     "experience": "8+ years",
     "reviews": [
@@ -30,7 +31,7 @@
         "author": "Anjali Patel",
         "rating": 5,
         "date": "2 weeks ago",
-        "comment": "Priya redesigned our e-commerce checkout flow, and our conversion rate improved by 30%. Excellent attention to detail!",
+        "comment": "Priya designed my wedding lehenga, and it was breathtaking. Every detail was perfect!",
         "image": "/images/demoImages/photo-1438761681033-6461ffad8d80.jpeg"
       },
       {
@@ -38,7 +39,7 @@
         "author": "Emily Johnson",
         "rating": 4,
         "date": "1 month ago",
-        "comment": "She’s a fantastic communicator and always backed her design choices with data. Loved collaborating with her.",
+        "comment": "She’s an excellent communicator and really understood my vision. Highly recommend!",
         "image": "/images/demoImages/photo-1500648767791-00dcc994a43e.jpeg"
       },
       {
@@ -46,7 +47,7 @@
         "author": "Sofia García",
         "rating": 5,
         "date": "3 months ago",
-        "comment": "Priya’s design process is well-structured and thoughtful. The final product looked world-class.",
+        "comment": "Priya’s craftsmanship is unmatched. The outfit turned out more stunning than expected.",
         "image": "/images/demoImages/photo-1529626455594-4ff0802cfb7e.jpeg"
       }
     ]
@@ -54,18 +55,28 @@
   {
     "id": 2,
     "name": "Kenji Tanaka",
-    "specialty": "Minimalist UI & Brand Systems",
+    "specialty": "Contemporary Fusion",
     "location": "Tokyo, Japan",
     "rating": 4.8,
     "reviewsCount": 97,
-    "image": "/images/demoImages/photo-1552058544-f2b08422138a.jpeg",
-    "portfolio": ["/images/demoImages/designer.jpeg"],
+    "image": "/images/demoImages/photo-1507003211169-0a1dd7228f2d.jpeg",
+    "portfolio": [
+      "/images/demoImages/photo-1515886657613-9f3515b0c78f.jpeg",
+      "/images/demoImages/photo-1539008835657-9e8e9680c956.jpeg",
+      "/images/demoImages/photo-1490481651871-ab68de25d43d.jpeg"
+    ],
     "price": "$$",
     "turnaround": "1-2 weeks",
     "completedProjects": 185,
     "responseTime": "5 hours",
-    "bio": "Kenji combines Japanese minimalism with modern interaction patterns to build seamless user experiences. He’s known for his clean aesthetics, structured grids, and intuitive mobile app interfaces.",
-    "skills": ["Visual Design", "Design Systems", "UI Animation", "Figma", "Brand Identity"],
+    "bio": "Kenji fuses traditional Japanese aesthetics with modern streetwear influences. His designs are minimal, functional, and effortlessly stylish — perfect for the global fashion-forward audience.",
+    "skills": [
+      "Pattern Making",
+      "Streetwear Design",
+      "Minimalist Aesthetics",
+      "Textile Innovation",
+      "Brand Styling"
+    ],
     "experience": "6+ years",
     "reviews": [
       {
@@ -73,7 +84,7 @@
         "author": "Hiroshi Sato",
         "rating": 5,
         "date": "2 weeks ago",
-        "comment": "Kenji’s design system transformed our product — elegant, scalable, and pixel-perfect.",
+        "comment": "Kenji’s kimono-inspired jackets are brilliant — timeless and modern at once.",
         "image": "/images/demoImages/photo-1535713875002-d1d0cf377fde.jpeg"
       },
       {
@@ -81,7 +92,7 @@
         "author": "Léa Dupont",
         "rating": 4,
         "date": "1 month ago",
-        "comment": "A true professional. His layouts are balanced and visually stunning.",
+        "comment": "Love his craftsmanship. The fit and finishing are impeccable.",
         "image": "/images/demoImages/photo-1529626455594-4ff0802cfb7e.jpeg"
       },
       {
@@ -89,7 +100,7 @@
         "author": "Carlos Mendes",
         "rating": 5,
         "date": "2 months ago",
-        "comment": "Kenji’s style embodies clarity and function. His work made our brand instantly more premium.",
+        "comment": "Kenji’s fusion wear stands out on every runway — truly world-class!",
         "image": "/images/demoImages/photo-1544005313-94ddf0286df2.jpeg"
       }
     ]
@@ -97,23 +108,27 @@
   {
     "id": 3,
     "name": "Amara Bello",
-    "specialty": "Inclusive & Accessible Design",
+    "specialty": "Ethnic & Festive",
     "location": "Lagos, Nigeria",
     "rating": 5.0,
     "reviewsCount": 143,
-    "image": "/images/demoImages/photo-1544005313-94ddf0286df2.jpeg",
-    "portfolio": ["/images/demoImages/photo-1603791440384-56cd371ee9a7.jpeg"],
+    "image": "/images/demoImages/photo-1438761681033-6461ffad8d80.jpeg",
+    "portfolio": [
+      "/images/demoImages/photo-1610030469983-98e550d6193c.jpeg",
+      "/images/demoImages/photo-1583391733956-3750e0ff4e8b.jpeg",
+      "/images/demoImages/photo-1617019114583-affb34d1b3cd.jpeg"
+    ],
     "price": "$$$",
     "turnaround": "3-4 weeks",
     "completedProjects": 198,
     "responseTime": "4 hours",
-    "bio": "Amara is passionate about creating digital experiences that are accessible to everyone. She’s led UX research and design for fintech, education, and government platforms, ensuring inclusivity and usability across devices.",
+    "bio": "Amara is a Nigerian fashion designer redefining modern African wear. Her collections highlight cultural heritage through bold colors, sustainable fabrics, and contemporary silhouettes.",
     "skills": [
-      "Accessibility Design (WCAG)",
-      "UX Research",
-      "Prototyping",
-      "Design Thinking",
-      "UI Design"
+      "Ankara Styling",
+      "Cultural Design",
+      "Sustainable Fashion",
+      "Tailoring",
+      "Event Wear"
     ],
     "experience": "7+ years",
     "reviews": [
@@ -122,7 +137,7 @@
         "author": "Chinedu Okeke",
         "rating": 5,
         "date": "1 week ago",
-        "comment": "Amara helped us redesign our education app with accessibility in mind. It’s now more intuitive for everyone.",
+        "comment": "Amara made my agbada for a traditional ceremony — flawless craftsmanship!",
         "image": "/images/demoImages/photo-1517841905240-472988babdf9.jpeg"
       },
       {
@@ -130,7 +145,7 @@
         "author": "Jessica Lee",
         "rating": 4,
         "date": "1 month ago",
-        "comment": "Loved how she guided user research. The user testing insights were invaluable.",
+        "comment": "Loved her use of African prints with modern cuts. It’s elegant and bold.",
         "image": "/images/demoImages/photo-1506794778202-cad84cf45f1d.jpeg"
       },
       {
@@ -138,7 +153,7 @@
         "author": "Ahmed Al-Farsi",
         "rating": 5,
         "date": "2 months ago",
-        "comment": "Her empathy-driven design approach made a huge difference for our product.",
+        "comment": "Her outfits celebrate culture beautifully. I wear her designs proudly.",
         "image": "/images/demoImages/photo-1529626455594-4ff0802cfb7e.jpeg"
       }
     ]
@@ -146,26 +161,27 @@
   {
     "id": 4,
     "name": "Luca Rossi",
-    "specialty": "Luxury UI & Creative Direction",
+    "specialty": "Formal & Casual",
     "location": "Milan, Italy",
     "rating": 4.7,
     "reviewsCount": 101,
-    "image": "/images/demoImages/photo-1507003211169-0a1dd7228f2d.jpeg",
+    "image": "/images/demoImages/photo-1500648767791-00dcc994a43e.jpeg",
     "portfolio": [
-      "/images/demoImages/photo-1593642532973-d31b6557fa68.jpeg",
-      "/images/demoImages/photo-1603791440384-56cd371ee9a7.jpeg"
+      "/images/demoImages/photo-1490481651871-ab68de25d43d.jpeg",
+      "/images/demoImages/photo-1515886657613-9f3515b0c78f.jpeg",
+      "/images/demoImages/photo-1539008835657-9e8e9680c956.jpeg"
     ],
     "price": "$$$$",
     "turnaround": "4-6 weeks",
     "completedProjects": 220,
     "responseTime": "6 hours",
-    "bio": "Luca blends Italian luxury aesthetics with modern UI design. He’s known for designing digital experiences that look as premium as they feel. His clients include fashion houses, jewelry brands, and boutique e-commerce stores.",
+    "bio": "Luca brings the essence of Italian tailoring into modern fashion. His designs are timeless, refined, and meticulously crafted for both men and women.",
     "skills": [
-      "Art Direction",
-      "UX Strategy",
-      "Visual Design",
-      "Brand Identity",
-      "Interaction Design"
+      "Tailoring",
+      "Luxury Menswear",
+      "Fashion Illustration",
+      "Fabric Design",
+      "Runway Styling"
     ],
     "experience": "9+ years",
     "reviews": [
@@ -174,7 +190,7 @@
         "author": "Giulia Conti",
         "rating": 5,
         "date": "3 weeks ago",
-        "comment": "Luca’s landing page design elevated our brand image completely. Clean, bold, and modern.",
+        "comment": "Luca’s suits are a work of art — elegant, structured, and perfectly fitted.",
         "image": "/images/demoImages/photo-1500648767791-00dcc994a43e.jpeg"
       },
       {
@@ -182,7 +198,7 @@
         "author": "Ava Brown",
         "rating": 4,
         "date": "1 month ago",
-        "comment": "Very professional — his work feels like art. The animations were a nice touch!",
+        "comment": "Very professional and attentive. The quality is top-notch!",
         "image": "/images/demoImages/photo-1544005313-94ddf0286df2.jpeg"
       },
       {
@@ -190,7 +206,7 @@
         "author": "Hannah Müller",
         "rating": 5,
         "date": "3 months ago",
-        "comment": "We collaborated on a fashion app. His visual storytelling is second to none.",
+        "comment": "Collaborated with Luca on a fashion show — his attention to detail is incredible.",
         "image": "/images/demoImages/photo-1517841905240-472988babdf9.jpeg"
       }
     ]
